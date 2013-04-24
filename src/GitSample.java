@@ -9,6 +9,7 @@ public class GitSample {
 		// Démarrage de l'application
 		System.out.println("Mon application Git.");
 		System.out.println("Démarrage en cours...");
+		System.out.println("Initilisation...");
 	}
 
 }
