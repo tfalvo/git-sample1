@@ -12,6 +12,7 @@ public class GitSample {
 		
 		// Une nouvelle fonction expé
 		System.out.println("Nouvelle fonctionnalité.");
+		System.out.println("Avancement nouvelle fonctionnalité.");
 	}
 
 }
