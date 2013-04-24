@@ -10,6 +10,10 @@ public class GitSample {
 		System.out.println("Mon application Git.");
 		System.out.println("Démarrage en cours...");
 		System.out.println("Initilisation...");
+		
+		// Correction 1
+		System.out.println("Correctif urgent");
+		
 	}
 
 }
